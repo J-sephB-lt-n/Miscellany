@@ -1,0 +1,14 @@
+:root {
+  /* Primitive colors */
+  --color-neutral-0: #ffffff;
+  --color-neutral-900: #212121;
+  --color-neutral-800: #2f2f2f;
+  --color-neutral-700: #424242;
+
+  /* Semantic colours */
+  --color-bg-page: var(--color-neutral-900);
+  --color-bg-surface: var(--color-neutral-800);
+  --color-text-primary: var(--color-neutral-0);
+  --color-text-muted: #b4b4b4;
+  --color-border-default: var(--color-neutral-700);
+}
